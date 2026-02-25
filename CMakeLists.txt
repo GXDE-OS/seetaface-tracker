@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.10)
 set(FaceTracking_NAME "SeetaFaceTracking" CACHE STRING "The FaceTracking library name")
 set(FaceTracking_VERSION_MAJOR "6")
 set(FaceTracking_VERSION_MINOR "0")
